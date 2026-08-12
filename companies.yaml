@@ -23,16 +23,18 @@
 # noise and makes the prefilter counts impossible to reason about.
 
 companies:
-  - {ats: greenhouse, slug: stripe,      name: Stripe}
-  - {ats: greenhouse, slug: databricks,  name: Databricks}
-  - {ats: greenhouse, slug: cloudflare,  name: Cloudflare}
-  - {ats: greenhouse, slug: figma,       name: Figma}
-  - {ats: greenhouse, slug: dropbox,     name: Dropbox}
-  - {ats: greenhouse, slug: coinbase,    name: Coinbase}
-  - {ats: greenhouse, slug: reddit,      name: Reddit}
-  - {ats: lever,      slug: voleon,      name: Voleon}
-
-  - {ats: ashby,      slug: openai,      name: OpenAI}
-  - {ats: ashby,      slug: ramp,        name: Ramp}
-  - {ats: ashby,      slug: linear,      name: Linear}
-  - {ats: ashby,      slug: vanta,       name: Vanta}
+  - {ats: greenhouse, slug: postman, name: Postman}
+  - {ats: ashby, slug: confluent, name: Confluent}
+  - {ats: greenhouse, slug: grafanalabs, name: Grafana Labs}
+  - {ats: greenhouse, slug: mongodb, name: MongoDB}
+  - {ats: ashby, slug: deel, name: Deel}
+  - {ats: greenhouse, slug: cloudflare, name: Cloudflare}
+  - {ats: greenhouse, slug: elastic, name: Elastic}
+  - {ats: greenhouse, slug: gitlab, name: GitLab}
+  - {ats: greenhouse, slug: twilio, name: Twilio}
+  - {ats: greenhouse, slug: razorpaysoftwareprivatelimited, name: Razorpay}
+  - {ats: lever, slug: cred, name: CRED}
+  - {ats: lever, slug: meesho, name: Meesho}
+  - {ats: greenhouse, slug: groww, name: Groww}
+  - {ats: lever, slug: metabase, name: Metabase}
+  - {ats: greenhouse, slug: digitaloceancitesremotes, name: DigitalOcean}
